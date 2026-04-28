@@ -1,0 +1,17 @@
+﻿# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# PowerShell backups
+*.ps1.bak
+*.bak_*
+
+# Obsidian temp
+.obsidian/workspace.json

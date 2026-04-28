@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "E:\Hermes\Product\Router_MVP\launch_router.ps1"
