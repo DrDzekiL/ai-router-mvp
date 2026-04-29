@@ -1,9 +1,9 @@
-﻿param(
+param(
     [ValidateSet('all','prompt','quickstart','examples','folder','copy')]
     [string]$Mode = 'all'
 )
 
-$base       = 'E:\Hermes\Product\Router_MVP'
+$base       = 'E:\Hermes\Product\Router_MVP_Public'
 $promptFile = Join-Path $base 'router_prompt.txt'
 $quickFile  = Join-Path $base 'quickstart.md'
 $exFile     = Join-Path $base 'examples.md'
