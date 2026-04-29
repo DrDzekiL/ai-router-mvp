@@ -1,34 +1,38 @@
-﻿# Examples
+# Examples
 
-## Пример 1 — Трейдинг
+## Example 1 — Trade execution
 
-### Вход:
-Зашёл в long по BTC, но вход импульсный, без HTF
+### Input
+Entered BTC long too early without full confirmation.
 
-### Router:
+### Router output
 PHB
 
-### Блок:
-Импульсный вход без анализа HTF. Нарушение дисциплины.
+### Saved meaning
+Execution issue: entry was early, confirmation was incomplete.
 
-## Пример 2 — Мысль
+---
 
-### Вход:
-Мне нужно получать удовольствие от процесса, а не от денег
+## Example 2 — Process note
 
-### Router:
+### Input
+I should enjoy doing the work, not only the reward.
+
+### Router output
 MINDSET
 
-### Блок:
-Фокус на профессионализме вместо результата.
+### Saved meaning
+Focus on process quality instead of chasing immediate reward.
 
-## Пример 3 — Система
+---
 
-### Вход:
-Роутер убирает хаос и сам всё раскладывает
+## Example 3 — Product note
 
-### Router:
+### Input
+This workflow helps turn long chats into reusable notes.
+
+### Router output
 PRODUCT
 
-### Блок:
-Роутер = система структурирования и фиксации смысла.
+### Saved meaning
+AI Router reduces friction between conversation and structured memory.
